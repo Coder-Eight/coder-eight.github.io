@@ -24,7 +24,3 @@
 .table_dark td:last-child {
   border-right: none;
 }
-/*
-.table_dark tr:hover td {
-  text-decoration: underline;
-}
